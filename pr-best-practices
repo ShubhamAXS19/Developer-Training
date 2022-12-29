@@ -1,0 +1,13 @@
+### Here are some best practices for creating a pull request on:
+
+    * Clearly communicate the purpose of the pull request: Make sure to include a clear and concise summary of the changes you are proposing in the pull request. This will help other contributors understand the purpose of the pull request and decide whether to review and merge it.
+
+    * Follow the project's contribution guidelines: Most projects will have a set of contribution guidelines that outline the process for submitting a pull request. Make sure to follow these guidelines to ensure that your pull request is reviewed and merged smoothly.
+
+    * Include detailed descriptions of the changes: In the body of the pull request, provide a detailed description of the changes you are proposing. This will help other contributors understand the context and reasoning behind your changes.
+
+    * Test your changes: Before submitting your pull request, make sure to test your changes to ensure that they are working as expected. This will help ensure that the changes are of high quality and ready to be merged.
+
+    * Keep the pull request small and focused: It's generally a good idea to keep your pull request small and focused on a single issue or feature. This will make it easier for other contributors to review and merge your changes.
+
+    * Follow up on feedback: If your pull request is reviewed and feedback is provided, make sure to address the feedback in a timely manner. This will help ensure that your pull request is reviewed and merged smoothly.
